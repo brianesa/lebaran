@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 
 export default function Home() {
   var i = 0;
-  var txt = 'Selamat Hari Raya Idul Fitri Keluarga Besar Bapak Warjono dan Tati Sulastri';
+  var txt = 'Selamat Hari Raya Idul Fitri Keluarga Besar Bapak Warjono dan Ibu Tati Sulastri';
   var speed = 50;
 
   const [showImage, setShowImage] = useState(false);
