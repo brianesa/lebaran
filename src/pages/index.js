@@ -49,7 +49,7 @@ export default function Home() {
         </div>
         <img style={{ width: '100%', height: '100%', visibility: showImage ? 'visible' : 'hidden' }} src="/taqob5.png" alt="" />
         <br />
-        <h5 style={{ visibility: showImage ? 'visible' : 'hidden' }}>~ Kamu Nanyea ~</h5>
+        <h5 style={{ visibility: showImage ? 'visible' : 'hidden' }}>~ Secret Admirer ~</h5>
 
       </main>
     </>
