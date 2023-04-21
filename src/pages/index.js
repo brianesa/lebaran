@@ -47,8 +47,7 @@ export default function Home() {
         <div className={styles.description}>
           <h1 id='text'></h1>
         </div>
-
-        <img style={{ width: '50%', height: '50%', visibility: showImage ? 'visible' : 'hidden' }} src="/warjono.jpeg" alt="" />
+        <img style={{ width: '50%', height: '50%', visibility: showImage ? 'visible' : 'hidden' }} src="/taqob5.png" alt="" />
         <br />
         <h5 style={{ visibility: showImage ? 'visible' : 'hidden' }}>~ Kamu Nanyea ~</h5>
 
