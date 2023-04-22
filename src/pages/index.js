@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 
 export default function Home() {
   var i = 0;
-  var txt = 'Selamat Hari Raya Idul Fitri Keluarga Besar Bapak Warjono dan Ibu Tati Sulastri';
+  var txt = 'Selamat Hari Raya Idul Fitri 1 Syawal 1444 Hijriah';
   var speed = 50;
 
   const [showImage, setShowImage] = useState(false);
@@ -49,7 +49,7 @@ export default function Home() {
         </div>
         <img style={{ width: '100%', height: '100%', visibility: showImage ? 'visible' : 'hidden' }} src="/taqob5.png" alt="" />
         <br />
-        <h5 style={{ visibility: showImage ? 'visible' : 'hidden' }}>~ Secret Admirer ~</h5>
+        <h5 style={{ visibility: showImage ? 'visible' : 'hidden' }}>~ Brian Esa & Keluarga ~</h5>
 
       </main>
     </>
