@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 
 export default function Home() {
   var i = 0;
-  var txt = 'Selamat Hari Raya Idul Fitri 1 Syawal 1444 Hijriah';
+  var txt = 'Selamat Hari Raya Idul Fitri 1 Syawal 1444 Hijriah. Mohon Maaf Lahir dan Batin 🙏';
   var speed = 50;
 
   const [showImage, setShowImage] = useState(false);
